@@ -1,0 +1,22 @@
+{
+  "name": "asign",
+  "version": "1.0.0",
+  "description": "my heroku App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start" :"node techie.js"
+  },
+  "keywords": [
+    "mustaf"
+  ],
+  "author": "mustafa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "hbs": "^4.0.0",
+    "nodemon": "^2.0.3",
+    "pug": "^2.0.4"
+  }
+}
